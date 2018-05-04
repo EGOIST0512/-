@@ -1,0 +1,110 @@
+2018-04-20T02:30:49.027Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-20T02:30:49.038Z - normal: checking language setting...
+2018-04-20T02:30:49.038Z - normal: Language: zh
+2018-04-20T02:30:53.243Z - success: protocol editor-framework registered
+2018-04-20T02:30:53.244Z - success: protocol app registered
+2018-04-20T02:30:53.244Z - success: protocol theme registered
+2018-04-20T02:30:53.244Z - success: protocol profile registered
+2018-04-20T02:30:53.244Z - success: protocol packages registered
+2018-04-20T02:30:53.245Z - success: protocol unpack registerred
+2018-04-20T02:30:53.245Z - success: protocol disable-commonjs registerred
+2018-04-20T02:30:53.253Z - normal: failed to connect login server... skipping login
+2018-04-20T02:30:53.256Z - normal: Check project C:\Users\94845_000\Desktop\start_project
+2018-04-20T02:30:53.262Z - normal: Initializing Cocos2d
+2018-04-20T02:30:55.881Z - normal: Initializing Asset Database
+2018-04-20T02:30:56.035Z - success: protocol uuid registerred
+2018-04-20T02:30:56.036Z - success: protocol db registerred
+2018-04-20T02:30:56.036Z - success: protocol thumbnail registerred
+2018-04-20T02:30:56.037Z - normal: Loading editor/builtin packages
+2018-04-20T02:30:56.687Z - success: assets loaded
+2018-04-20T02:30:56.692Z - success: builder loaded
+2018-04-20T02:30:56.698Z - success: hierarchy loaded
+2018-04-20T02:30:56.704Z - success: inspector loaded
+2018-04-20T02:30:56.708Z - success: keystore loaded
+2018-04-20T02:30:56.716Z - success: node-library loaded
+2018-04-20T02:30:56.724Z - success: preferences loaded
+2018-04-20T02:30:56.774Z - success: project-importer loaded
+2018-04-20T02:30:56.778Z - success: project-settings loaded
+2018-04-20T02:30:56.782Z - success: ui-kit loaded
+2018-04-20T02:30:56.801Z - success: ui-grid loaded
+2018-04-20T02:30:56.807Z - success: scene loaded
+2018-04-20T02:30:56.812Z - success: sprite-editor loaded
+2018-04-20T02:30:57.615Z - success: store loaded
+2018-04-20T02:30:57.639Z - success: timeline loaded
+2018-04-20T02:30:57.639Z - normal: Loading builtin packages
+2018-04-20T02:30:57.666Z - success: anysdk loaded
+2018-04-20T02:30:57.673Z - success: asset-db-debugger loaded
+2018-04-20T02:30:57.676Z - success: code-editor loaded
+2018-04-20T02:30:57.708Z - success: color-picker loaded
+2018-04-20T02:30:57.717Z - success: console loaded
+2018-04-20T02:30:57.721Z - success: package-manager loaded
+2018-04-20T02:30:57.730Z - success: tester loaded
+2018-04-20T02:30:57.733Z - success: ui-kit-preview-extra loaded
+2018-04-20T02:30:57.736Z - success: ui-kit-preview loaded
+2018-04-20T02:30:57.817Z - success: ui-tree loaded
+2018-04-20T02:30:58.120Z - normal: Initializing project C:\Users\94845_000\Desktop\start_project
+2018-04-20T02:30:58.135Z - normal: Loading packages
+2018-04-20T02:30:58.145Z - normal: Watching packages
+2018-04-20T02:30:58.208Z - normal: Run Application
+2018-04-20T02:31:25.089Z - success: preview server running at http://localhost:7456
+2018-04-20T02:31:25.089Z - normal: Compiling scripts...
+2018-04-20T02:31:34.427Z - normal: Compiled project javascript file successfully
+2018-04-20T02:31:56.144Z - normal: 1.4.0
+2018-04-20T02:32:23.353Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-20T02:32:23.354Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 813.00
+2018-04-20T02:32:23.355Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-20T02:32:23.909Z - normal: Simulator: Ready for GLSL
+2018-04-20T02:32:23.910Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-20T02:32:24.465Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-04-20T02:32:24.468Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 813.00
+2018-04-20T02:32:24.468Z - normal: Simulator: FRAME SCALE = 1.00
+2018-04-20T02:32:24.629Z - normal: Simulator: Ready for GLSL
+2018-04-20T02:32:24.629Z - normal: Simulator: Ready for OpenGL 2.0
+2018-04-20T02:32:24.661Z - normal: Simulator: 
+2018-04-20T02:32:24.663Z - normal: Simulator: {
+2018-04-20T02:32:24.664Z - normal: Simulator: 	gl.version: 4.3.0 - Build 10.18.14.4062
+2018-04-20T02:32:24.665Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-04-20T02:32:24.665Z - normal: Simulator: 	cocos2d.x.version: 1.4.0-lite
+2018-04-20T02:32:24.666Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-04-20T02:32:24.667Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-04-20T02:32:24.667Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-04-20T02:32:24.668Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-04-20T02:32:24.669Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-04-20T02:32:24.669Z - normal: Simulator: 	gl.vendor: Intel
+2018-04-20T02:32:24.669Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Pro Graphics 5200
+2018-04-20T02:32:24.669Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-04-20T02:32:24.670Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-04-20T02:32:24.670Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-04-20T02:32:24.670Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-04-20T02:32:24.671Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-04-20T02:32:24.671Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-04-20T02:32:24.671Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-04-20T02:32:24.672Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-04-20T02:32:24.672Z - normal: Simulator: }
+2018-04-20T02:32:24.672Z - normal: Simulator: 
+2018-04-20T02:32:24.673Z - normal: Simulator: 
+2018-04-20T02:32:24.673Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-04-20T02:32:24.724Z - normal: Simulator: Project Config:
+2018-04-20T02:32:24.725Z - normal: Simulator:     project dir: D:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-04-20T02:32:24.725Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-04-20T02:32:24.727Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-04-20T02:32:24.727Z - normal: Simulator:     frame size: 960 x 640
+2018-04-20T02:32:24.728Z - normal: Simulator:     frame scale: 1.00
+2018-04-20T02:32:24.728Z - normal: Simulator:     show console: NO
+2018-04-20T02:32:24.729Z - normal: Simulator:     write debug log: NO ()
+2018-04-20T02:32:24.731Z - normal: Simulator:     listen: 
+2018-04-20T02:32:24.732Z - normal: Simulator:     debugger: none
+2018-04-20T02:32:24.732Z - normal: Simulator:     add searching path:
+2018-04-20T02:32:24.733Z - normal: Simulator: 
+2018-04-20T02:32:24.733Z - normal: Simulator: 
+2018-04-20T02:32:24.733Z - normal: Simulator: 
+2018-04-20T02:32:24.805Z - normal: Simulator: ------------------------------------------------
+2018-04-20T02:32:24.806Z - normal: Simulator: LOAD Js FILE: main.js
+2018-04-20T02:32:24.807Z - normal: Simulator: ------------------------------------------------
+2018-04-20T02:32:27.485Z - normal: Simulator: Cocos2d-JS v3.14
+2018-04-20T02:32:27.780Z - normal: Simulator: iShow!
+2018-04-20T02:32:28.895Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2018-04-20T02:32:52.268Z - normal: Simulator: basic_object_finalize 06B31600 ...
+2018-04-20T02:32:52.269Z - normal: Simulator: jsbindings: finalizing JS object 06B31620 (WebSocket)
+2018-04-20T02:32:52.270Z - normal: Simulator: jsbindings: finalizing JS object 06B31640 (SocketIO)
+2018-04-20T02:33:07.083Z - info: shutdown preview server
